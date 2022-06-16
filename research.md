@@ -14,3 +14,8 @@ Machine learning has proved to be a viable tool for the simulation of quantum ma
 # Accelerating Monte Carlo Simulation
 
 Monte Carlo simulation was invented in the 40's and many existing algorithms have been highly optimized already. Due to the ubiquity of these simulations in science, and other fields such as finance, it is of interest finding ways of accelerating this tool.
+
+# Publications
+
+1. [Operationally accessible entanglement of one-dimensional spinless fermions](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022324) // Hatem Barghtahi, Emanuel Casiano-Diaz, Adrian Del Maestro (2019) // [arXiv:1905.03312]
+2. [Particle partition entanglement of one dimensional spinless fermions](https://iopscience.iop.org/article/10.1088/1742-5468/aa819a/meta) // Hatem Barghathi, Emanuel Casiano-Diaz, Adrian Del Maestro (2017) // [arXiv:1703.10587v3]
