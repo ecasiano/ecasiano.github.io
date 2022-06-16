@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Blog", file: "/blog.md"}
+  - {title: "Blog", file: "blog.md"}
   - {file: "index.html", title: "Home Change", icon:home}
-  - {file: "/CV.pdf", title: "CV", icon:home}
+  - {file: "CV.pdf", title: "CV", icon:home}
   - {title: "Music", url: "https://www.youtube.com/user/TheViolaMann"}
   - {file: "README.md", title: "About me", icon:address-card}
 
