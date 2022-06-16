@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-{% avatar [ecasiano] %}
+{% avatar ecasiano %}
 
 TESTING....
 
