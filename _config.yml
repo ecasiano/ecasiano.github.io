@@ -6,6 +6,9 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /files/rikken.jpeg
+
 # Layout
 show_social: true          # show site description and social links in the footer
 show_excerpts: false        # show article excerpts on the home page
