@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-{% avatar ecasiano size=50 %}
+{% avatar ecasiano size=200 %}
 
 TESTING....
 
