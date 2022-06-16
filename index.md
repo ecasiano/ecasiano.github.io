@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+{% avatar [ecasiano] %}
+
 I am a Physics PhD Student at University of Tennessee Knoxville and doing an internship at Los Alamos National Laboratory. I'm fascinated by computational methods and their applicability in various fields, not just physics. 
 
 For my PhD project, I developed a Quantum Monte Carlo simulation to compute the quantum entanglement entropies for systems of bosons at zero temperature.
