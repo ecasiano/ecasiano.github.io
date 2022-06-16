@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Blog", file: "blog.md"}
-  - {file: "index.html", title: "Home Change", icon:home}
-  - {file: "CV.pdf", title: "CV", icon:home}
+  - {file: "index.md"}
+  - {title: "CV", url: "/CV.pdf",icon:home}
+  - {title: "Research", file: "research.md"}
   - {title: "Music", url: "https://www.youtube.com/user/TheViolaMann"}
-  - {file: "README.md", title: "About me", icon:address-card}
+  - {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ecasiano@vols.utk.edu"}
