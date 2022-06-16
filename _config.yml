@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Blog", file: "/blog.md"}
   - {file: "index.html", title: "Home Change", icon:home}
   - {file: "/CV.pdf", title: "CV", icon:home}
   - {title: "Music", url: "https://www.youtube.com/user/TheViolaMann"}
-  - {title: "Blog", file: "/blog.md"}
   - {file: "README.md", title: "About me", icon:address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
