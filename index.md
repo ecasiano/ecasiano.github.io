@@ -5,7 +5,7 @@ title: ""
 
 {% avatar ecasiano size=200 %}
 
-<img src="/files/portrait.jpeg" alt="Italian Trulli">
+<img src="/files/rikken.jpeg" alt="At K-Computer in Kobe, Japan">
 
 
 I am a Physics PhD Student at University of Tennessee Knoxville and doing an internship at Los Alamos National Laboratory. I'm fascinated by computational methods and their applicability in various fields, not just physics. 
