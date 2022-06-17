@@ -21,8 +21,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {title: "Home", file: "index.md"}
-  - {title: "CV", url: "/CV.pdf",icon:home}
   - {title: "Research", file: "research.md"}
+  - {title: "CV", url: "/CV.pdf",icon:home}
   - {title: "Music",file: "music.md"}
   - {title: "Blog", file: "blog.md"}
 
