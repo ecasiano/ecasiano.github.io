@@ -5,7 +5,8 @@ title: ""
 
 {% avatar ecasiano size=200 %}
 
-TESTING....
+<img src="/files/portrait.jpeg" alt="Italian Trulli">
+
 
 I am a Physics PhD Student at University of Tennessee Knoxville and doing an internship at Los Alamos National Laboratory. I'm fascinated by computational methods and their applicability in various fields, not just physics. 
 
