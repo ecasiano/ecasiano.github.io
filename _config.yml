@@ -7,7 +7,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /files/rikken.jpeg
+avatar: /files/portrait.jpeg
 
 # Layout
 show_social: true          # show site description and social links in the footer
