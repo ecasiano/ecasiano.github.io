@@ -6,6 +6,17 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Español
+        value: es
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: /files/portrait.jpeg
 
