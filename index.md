@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="/files/rikken.jpeg" alt="At K-Computer in Kobe, Japan" style="width:400px;height:500px;" align="middle">
+<img src="/files/rikken.jpeg" alt="At K-Computer in Kobe, Japan" style="width:400px;height:500px;" vertical-align="text-top" align="right">
 
 
 I am a Physics PhD Student at University of Tennessee Knoxville and doing an internship at Los Alamos National Laboratory. I'm fascinated by computational methods and their applicability in various fields, not just physics. 
