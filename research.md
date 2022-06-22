@@ -5,11 +5,11 @@ title: ""
 
 # Quantum Entanglement
 
-The constituents of quantum many-body systems may exhibit correlations that cannot be classically described, a phenomenon known as quantum entanglement.
+The constituents of quantum many-body systems may exhibit correlations that cannot be classically described, a phenomenon known as quantum entanglement. In my time in graduate school, I have studied how much entanglement is there between spatial subregions of a system and also how much entanglement is there between groups of particles, regardless of their spatial subregion. We quantify this via Rényi Entanglement Entropies, a measure that can be computed exactly in small systems, but for larger systems can only be sampled using Quantum Monte Carlo algorithms. We developed the first Path-Integral Monte Carlo algorithm that allows us to compute the spatial entanglement, and how much of it can be used as a resource for quantum computing, for systems of bosons on a lattice at zero-temperature.
 
 # Machine Learning Quantum Many-Body Systems
 
-Machine learning has proved to be a viable tool for the simulation of quantum many-body systems. Certain models have been shown to be more efficient for this task than more commonly used Monte Carlo algorithms.
+Machine learning has proved to be a viable tool for the simulation of quantum many-body systems. Certain machine learning models have been shown to be more efficient for this task than more commonly used Monte Carlo algorithms. In particular, I've been exploring how generalizing a Restricted Boltzmann Machine (or RBM) into a convolutional neural network leads to better performing simulations of the Ising Model.
 
 # Accelerating Monte Carlo Simulation
 
