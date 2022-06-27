@@ -3,6 +3,11 @@ layout: default
 title: "Teaching"
 ---
 
+<figure>
+<img src="/files/taAwardLuke.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:400px;height:500px;">
+  <figcaption>Receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department from Prof. Luke Donforth.</figcaption>
+</figure>
+
 Teaching has been one of my favorite aspects of being a scientist. I have been able to teach profesionally in several facets at the graduate, undergraduate, high school, and middle school levels. In 2018, I won the "Teaching Assistant of the Year" award of the University of Vermont Physics Department.
 
 Some of the courses I've professionally taught, graded, or tutored:
