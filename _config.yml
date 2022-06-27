@@ -22,8 +22,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {title: "Home", file: "index.md"}
   - {title: "Research", file: "research.md"}
+  - {title: "Teaching", file: "teaching.md"}
   - {title: "CV", url: "/CV.pdf",icon:home}
-  - {title: "Code", file: "code.md" }
+  #- {title: "Code", file: "code.md" }
   - {title: "Blog", file: "blog.md"}
   - {title: "Music", file: "music.md"}
 
