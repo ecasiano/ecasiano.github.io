@@ -21,6 +21,7 @@ Some of the courses I've professionally taught, graded, or tutored:
 2. PHYS022 - Introductory Lab II
 3. PHYS031 - Physics for Engineers I
 4. PHYS051 - Fundamentals of Physics I
+5. PHYS256 - Computational Physcs (substituted)
 
 ### University of Vermont - Mathematics Department
 1. MATH237 - Intro to Numerical Analysis (grader)
