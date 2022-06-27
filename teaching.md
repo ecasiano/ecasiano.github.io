@@ -1,0 +1,1 @@
+Teaching has been one of my favorite aspects of being a scientist. I have been able to teach profesionally in several facets, including as a: physics graduate teaching assistant, math school teacher, and computer science tutor.
