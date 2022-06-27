@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 <figure>
-<img src="/files/taAwardLuke.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:400px;height:300px;">
+<img src="/files/taAwardLuke.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:200px;height:150px;">
   <figcaption>Receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department from Prof. Luke Donforth.</figcaption>
 </figure>
 
