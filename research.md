@@ -20,3 +20,19 @@ Monte Carlo simulation was invented in the 40's and many existing algorithms hav
 1. [Operationally accessible entanglement of one-dimensional spinless fermions](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022324)<br>Hatem Barghtahi, Emanuel Casiano-Diaz, Adrian Del Maestro (2019)<br>[arXiv:1905.03312](https://doi.org/10.48550/arXiv.1905.03312)
 2. [Master's Thesis - Quantum entanglement of one-dimensional spinless fermions](https://scholarworks.uvm.edu/graddis/1052/)<br> Emanuel Casiano-Diaz (2019)
 3. [Particle partition entanglement of one dimensional spinless fermions](https://iopscience.iop.org/article/10.1088/1742-5468/aa819a/meta)<br>Hatem Barghathi, Emanuel Casiano-Diaz, Adrian Del Maestro (2017)<br>[arXiv:1703.10587v3](https://doi.org/10.48550/arXiv.1703.10587)
+
+# Recent recorded talks
+
+1. [Operationally Accessible Entanglement in the 1D Bose-Hubbard Model - APS March Meeting 2022]
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KNAq9QBW5Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+2. [Measuring Rényi Entanglement Entropies in Lattice Worm Algorithm QMC - APS March Meeting 2020]
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OGKvc59uU2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
