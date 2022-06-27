@@ -9,10 +9,10 @@ title: "Teaching"
 </figure>
 
 <figure>
-<img src="/files/taAward.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:300px;height:225px;">
+<img src="/files/taAward.jpeg" alt="With Prof. Luke Donforth, receiving the American Association of Physics Teachers Outstanding Physics Teaching Assistant Award 2018 at University of Vermont Physics Department" style="width:300px;height:225px;">
 </figure>
 
-Teaching has been one of my favorite aspects of being a scientist. I have been able to teach profesionally in several facets at the graduate, undergraduate, high school, and middle school levels. In 2018, I won the "Teaching Assistant of the Year" award of the University of Vermont Physics Department.
+Teaching has been one of my favorite aspects of being a scientist. I have been able to teach profesionally in several facets at the graduate, undergraduate, high school, and middle school levels. In 2018, I won the "American Association of Physics Teachers Outstanding Physics Teaching Assistant Award" award of the University of Vermont Physics Department.
 
 Some of the courses I've professionally taught, graded, or tutored:
 
