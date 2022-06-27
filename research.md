@@ -23,13 +23,13 @@ Monte Carlo simulation was invented in the 40's and many existing algorithms hav
 
 # Recent recorded talks
 
-1. [Operationally Accessible Entanglement in the 1D Bose-Hubbard Model - APS March Meeting 2022]
+1. [Operationally Accessible Entanglement in the 1D Bose-Hubbard Model - APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/F49.4)
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNAq9QBW5Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-2. [Measuring Rényi Entanglement Entropies in Lattice Worm Algorithm QMC - APS March Meeting 2020]
+2. [Measuring Rényi Entanglement Entropies in Lattice Worm Algorithm QMC - APS March Meeting 2020](https://meetings.aps.org/Meeting/MAR20/Session/G43.5)
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OGKvc59uU2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
