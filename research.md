@@ -16,10 +16,11 @@ Machine learning has proved to be a viable tool for the simulation of quantum ma
 Monte Carlo simulation was invented in the 40's and many existing algorithms have been highly optimized already. Due to the ubiquity of these simulations in science, and other fields such as finance, it is of interest finding ways of accelerating this tool.
 
 # Publications
-
-1. [Operationally accessible entanglement of one-dimensional spinless fermions](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022324)<br>Hatem Barghtahi, Emanuel Casiano-Diaz, Adrian Del Maestro (2019)<br>[arXiv:1905.03312](https://doi.org/10.48550/arXiv.1905.03312)
-2. [Master's Thesis - Quantum entanglement of one-dimensional spinless fermions](https://scholarworks.uvm.edu/graddis/1052/)<br> Emanuel Casiano-Diaz (2019)
-3. [Particle partition entanglement of one dimensional spinless fermions](https://iopscience.iop.org/article/10.1088/1742-5468/aa819a/meta)<br>Hatem Barghathi, Emanuel Casiano-Diaz, Adrian Del Maestro (2017)<br>[arXiv:1703.10587v3](https://doi.org/10.48550/arXiv.1703.10587)
+https://arxiv.org/abs/2207.11301
+1. [Operationally accessible entanglement of one-dimensional spinless fermions](https://doi.org/10.48550/arXiv.2207.11301)<br>Emanuel Casiano-Diaz, Chris M. Herdman, Adrian Del Maestro (2022)<br>[arXiv:2207.11301](https://doi.org/10.48550/arXiv.2207.11301)
+2. [Operationally accessible entanglement of one-dimensional spinless fermions](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022324)<br>Hatem Barghtahi, Emanuel Casiano-Diaz, Adrian Del Maestro (2019)<br>[arXiv:1905.03312](https://doi.org/10.48550/arXiv.1905.03312)
+3. [Master's Thesis - Quantum entanglement of one-dimensional spinless fermions](https://scholarworks.uvm.edu/graddis/1052/)<br> Emanuel Casiano-Diaz (2019)
+4. [Particle partition entanglement of one dimensional spinless fermions](https://iopscience.iop.org/article/10.1088/1742-5468/aa819a/meta)<br>Hatem Barghathi, Emanuel Casiano-Diaz, Adrian Del Maestro (2017)<br>[arXiv:1703.10587v3](https://doi.org/10.48550/arXiv.1703.10587)
 
 # Recent recorded talks
 
