@@ -3,12 +3,13 @@ layout: default
 title: "Teaching"
 ---
 
-<figure>
-<img src="/files/taAwardLuke.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:300px;height:225px;">
+<figure style="text-align: center;">
+  <img src="/files/taAwardLuke.jpeg" alt="With Prof. Luke Donforth, receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department" style="width:300px;height:225px;">
   <figcaption>Receiving the Teaching Assistant of the Year Award 2018 at University of Vermont Physics Department from Prof. Luke Donforth.</figcaption>
 </figure>
 
-<figure>
+
+<figure style="text-align: center;">
 <img src="/files/taAward.jpeg" alt="With Prof. Luke Donforth, receiving the American Association of Physics Teachers Outstanding Physics Teaching Assistant Award 2018 at University of Vermont Physics Department" style="width:300px;height:225px;">
 </figure>
 
