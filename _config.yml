@@ -41,3 +41,9 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-avatar
+
+ # Customize the theme colors
+colors:
+  background: "#ffffff"
+  text: "#333333"
+  link: "#1a0dab"
