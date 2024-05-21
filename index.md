@@ -3,8 +3,9 @@ layout: page
 title: ""
 ---
 
-<img src="/files/rikken.jpeg" alt="At K-Computer in Kobe, Japan" style="width:400px;height:500px;">
-
+<div style="text-align: center;">
+  <img src="/files/rikken.jpeg" alt="At K-Computer in Kobe, Japan" style="width:400px;height:500px;">
+</div>
 
 I am a Physics PhD Student at University of Tennessee Knoxville and doing an internship at Los Alamos National Laboratory. I'm fascinated by computational methods and their applicability in, not just physics, but almost any field.
 
